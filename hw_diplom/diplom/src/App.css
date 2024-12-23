@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "Intro regular";
+    src: url("./font/intro_regular.ttf");
+}
+
+* {
+    font-family: "Intro regular", sans-serif;
+} 
+
+@media (max-width: 1920px) {
+}
