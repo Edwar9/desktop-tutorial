@@ -12,21 +12,53 @@
 .content {
   width: 1180px;
   margin: 0 auto;
-  color: white;
   display: flex;
-  flex-direction: column;
-  gap: 30px;
+  align-items: center;
+  justify-content: center;
 }
 
 .title {
-    width: 233px;
+    width: 250px;
     height: 30px;
+    font-weight: 400;
 }
 
 .text {
     width: 380px;
     height: 110px;
 }
+
+.left {
+  color: white;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.right {
+  width: 680px;
+  height: 580px;
+  background: url(../image/about.png);
+}
+
+.logo {
+}
+
+
+.lineLogo {
+  display: flex;
+  align-items: center;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.line {
+  width: 30px;
+  height: 2px; 
+  background-color: white; 
+  margin-right: 10px;
+}
+
 
 
 

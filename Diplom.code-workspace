@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "Diplom",
+			"path": "../Diplom"
+		},
+		{
+			"name": "react-project",
+			"path": "../../projects/Lesson_14/React/react-project"
+		},
+		{
+			"name": "desktop-tutorial",
+			"path": "."
+		},
+		{
+			"name": "hw_diplom",
+			"path": "../hw_diplom"
+		}
+	],
+	"settings": {}
+}
